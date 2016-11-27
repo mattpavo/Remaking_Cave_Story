@@ -9,6 +9,10 @@ namespace globals {
 	const float SPRITE_SCALE = 2.0f;
 }
 
+struct Vector2 {
+
+};
+
 #endif
 
 
