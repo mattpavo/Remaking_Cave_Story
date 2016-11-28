@@ -76,7 +76,7 @@ void Game::gameLoop()
 void Game::draw(Graphics &graphics) {
 	graphics.clear();
 
-	this->_player.draw(graphics, 100, 100);
+	this->_player.draw(graphics);
 
 	graphics.flip();
 }
