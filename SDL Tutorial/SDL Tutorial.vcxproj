@@ -123,6 +123,7 @@
     <ClCompile Include="Source\src\game.cpp" />
     <ClCompile Include="Source\src\graphics.cpp" />
     <ClCompile Include="Source\src\input.cpp" />
+    <ClCompile Include="Source\src\level.cpp" />
     <ClCompile Include="Source\src\main.cpp" />
     <ClCompile Include="Source\src\player.cpp" />
     <ClCompile Include="Source\src\sprite.cpp" />
@@ -204,6 +205,7 @@
     <ClInclude Include="Source\headers\globals.h" />
     <ClInclude Include="Source\headers\graphics.h" />
     <ClInclude Include="Source\headers\input.h" />
+    <ClInclude Include="Source\headers\level.h" />
     <ClInclude Include="Source\headers\player.h" />
     <ClInclude Include="Source\headers\sprite.h" />
   </ItemGroup>
