@@ -373,5 +373,8 @@
     <Image Include="content\sprites\MyChar.png">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="content\backgrounds\bkBlue.png">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

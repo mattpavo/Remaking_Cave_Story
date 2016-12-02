@@ -300,6 +300,7 @@
     <Library Include="SDL2-2.0.4\lib\x86\SDL2_image.lib" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="content\backgrounds\bkBlue.png" />
     <Image Include="content\sprites\MyChar.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
