@@ -127,6 +127,7 @@
     <ClCompile Include="Source\src\main.cpp" />
     <ClCompile Include="Source\src\player.cpp" />
     <ClCompile Include="Source\src\sprite.cpp" />
+    <ClCompile Include="Source\src\tile.cpp" />
     <ClCompile Include="Source\src\xmltest.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -209,6 +210,7 @@
     <ClInclude Include="Source\headers\level.h" />
     <ClInclude Include="Source\headers\player.h" />
     <ClInclude Include="Source\headers\sprite.h" />
+    <ClInclude Include="Source\headers\tile.h" />
     <ClInclude Include="Source\headers\tinyxml2.h" />
   </ItemGroup>
   <ItemGroup>
